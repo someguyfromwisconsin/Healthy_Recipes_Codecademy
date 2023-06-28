@@ -21,3 +21,7 @@ img {
   .external-link {
     color: SeaGreen;
   }
+
+  h1, h2, p, li {
+    font-family: Helvetica;
+  }
